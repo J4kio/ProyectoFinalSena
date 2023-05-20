@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8DD49E53-0E70-4E39-A0AB-D48EB7297456}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProyectRoque</RootNamespace>
+    <AssemblyName>ProyectRoque</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Negocios\Clase_login.cs" />
+    <Compile Include="Negocios\clientes.cs" />
+    <Compile Include="Negocios\conection.cs" />
+    <Compile Include="Negocios\CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Negocios\DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Negocios\Factura_Compra.cs" />
+    <Compile Include="Negocios\Factura_venta.cs" />
+    <Compile Include="Presentacion\Actualizar_producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Actualizar_producto.Designer.cs">
+      <DependentUpon>Actualizar_producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Cambio_de_clave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Cambio_de_clave.Designer.cs">
+      <DependentUpon>Cambio_de_clave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\consulta_facturas_venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\consulta_facturas_venta.Designer.cs">
+      <DependentUpon>consulta_facturas_venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\consulta_factura_compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\consulta_factura_compra.Designer.cs">
+      <DependentUpon>consulta_factura_compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\consulta_producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\consulta_producto.Designer.cs">
+      <DependentUpon>consulta_producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocios\Empleado.cs" />
+    <Compile Include="Negocios\Producto.cs" />
+    <Compile Include="Negocios\Proveedor.cs" />
+    <Compile Include="Presentacion\actualizacion_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\actualizacion_cliente.Designer.cs">
+      <DependentUpon>actualizacion_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\actualizacion_empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\actualizacion_empleado.Designer.cs">
+      <DependentUpon>actualizacion_empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Actualizar_proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Actualizar_proveedor.Designer.cs">
+      <DependentUpon>Actualizar_proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\consulta_clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\consulta_clientes.Designer.cs">
+      <DependentUpon>consulta_clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\consulta_empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\consulta_empleados.Designer.cs">
+      <DependentUpon>consulta_empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\consulta_proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\consulta_proveedores.Designer.cs">
+      <DependentUpon>consulta_proveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\creacion_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\creacion_cliente.Designer.cs">
+      <DependentUpon>creacion_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\creacion_empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\creacion_empleado.Designer.cs">
+      <DependentUpon>creacion_empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\creacion_factura_compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\creacion_factura_compra.Designer.cs">
+      <DependentUpon>creacion_factura_compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\creacion_factura_venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\creacion_factura_venta.Designer.cs">
+      <DependentUpon>creacion_factura_venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\creacion_producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\creacion_producto.Designer.cs">
+      <DependentUpon>creacion_producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\creacion_proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\creacion_proveedor.Designer.cs">
+      <DependentUpon>creacion_proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Eliminacion_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Eliminacion_cliente.Designer.cs">
+      <DependentUpon>Eliminacion_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Eliminacion_empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Eliminacion_empleados.Designer.cs">
+      <DependentUpon>Eliminacion_empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Eliminacion_producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Eliminacion_producto.Designer.cs">
+      <DependentUpon>Eliminacion_producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Eliminacion_proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Eliminacion_proveedores.Designer.cs">
+      <DependentUpon>Eliminacion_proveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Empleados.Designer.cs">
+      <DependentUpon>Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Factura_Compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Factura_Compra.Designer.cs">
+      <DependentUpon>Factura_Compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Factura_venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Factura_venta.Designer.cs">
+      <DependentUpon>Factura_venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Informe_factura_venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Informe_factura_venta.Designer.cs">
+      <DependentUpon>Informe_factura_venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\menu_administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\menu_administrador.Designer.cs">
+      <DependentUpon>menu_administrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\menu_cajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\menu_cajero.Designer.cs">
+      <DependentUpon>menu_cajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\menu_jefe_inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\menu_jefe_inventario.Designer.cs">
+      <DependentUpon>menu_jefe_inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\producto.Designer.cs">
+      <DependentUpon>producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Proveedores.Designer.cs">
+      <DependentUpon>Proveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Recuperacion_clave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Recuperacion_clave.Designer.cs">
+      <DependentUpon>Recuperacion_clave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Negocios\CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Actualizar_producto.resx">
+      <DependentUpon>Actualizar_producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Cambio_de_clave.resx">
+      <DependentUpon>Cambio_de_clave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\consulta_facturas_venta.resx">
+      <DependentUpon>consulta_facturas_venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\consulta_factura_compra.resx">
+      <DependentUpon>consulta_factura_compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\consulta_producto.resx">
+      <DependentUpon>consulta_producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\actualizacion_cliente.resx">
+      <DependentUpon>actualizacion_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\actualizacion_empleado.resx">
+      <DependentUpon>actualizacion_empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Actualizar_proveedor.resx">
+      <DependentUpon>Actualizar_proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\consulta_clientes.resx">
+      <DependentUpon>consulta_clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\consulta_empleados.resx">
+      <DependentUpon>consulta_empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\consulta_proveedores.resx">
+      <DependentUpon>consulta_proveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\creacion_cliente.resx">
+      <DependentUpon>creacion_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\creacion_empleado.resx">
+      <DependentUpon>creacion_empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\creacion_factura_compra.resx">
+      <DependentUpon>creacion_factura_compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\creacion_factura_venta.resx">
+      <DependentUpon>creacion_factura_venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\creacion_producto.resx">
+      <DependentUpon>creacion_producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\creacion_proveedor.resx">
+      <DependentUpon>creacion_proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Eliminacion_cliente.resx">
+      <DependentUpon>Eliminacion_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Eliminacion_empleados.resx">
+      <DependentUpon>Eliminacion_empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Eliminacion_producto.resx">
+      <DependentUpon>Eliminacion_producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Eliminacion_proveedores.resx">
+      <DependentUpon>Eliminacion_proveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Empleados.resx">
+      <DependentUpon>Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Factura_Compra.resx">
+      <DependentUpon>Factura_Compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Factura_venta.resx">
+      <DependentUpon>Factura_venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Informe_factura_venta.resx">
+      <DependentUpon>Informe_factura_venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\menu_administrador.resx">
+      <DependentUpon>menu_administrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\menu_cajero.resx">
+      <DependentUpon>menu_cajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\menu_jefe_inventario.resx">
+      <DependentUpon>menu_jefe_inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\producto.resx">
+      <DependentUpon>producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Proveedores.resx">
+      <DependentUpon>Proveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Recuperacion_clave.resx">
+      <DependentUpon>Recuperacion_clave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Negocios\DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Negocios\DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Negocios\DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opciones1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interrogacion1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atras1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male-business-group-of-people_318-395981.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye-with-diaphragm-iris_318-55444.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-contact_318-123941.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\create-account_318-31332 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifier_318-50440.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh-button-with-users-inside_318-78444.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-group-delete_318-31076.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\faq-circular-filled-button_318-74801.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessman_318-72886.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people-searcher_318-85560.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personal-configuration_318-46663.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-group-delete_318-310761.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update-business-user_318-80757 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessmen-having-a-meeting_318-47128.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barscode-with-a-magnifier-business-symbol_318-61536.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update-business-user_318-80757.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopper-with-bags_318-26644.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessman-with-searching-tool_318-63762.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no hay imagen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\producto-sin-foto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\producto-sin-foto1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\producto-sin-foto2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\producto-sin-foto3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anadir-a-la-cesta-de-la-compra_318-73245.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar-carrito-de-compras-de-comercio-electronico-simbolo-interfaz_318-66882.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verificacion_318-127531.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consulta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actualizar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifier_318-504401.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADD1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FACTURA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\llave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factura de venta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factura de compra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-of-printer.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,769 @@
+C:\Users\javier\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+C:\Users\javier\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+C:\Users\javier\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+C:\Users\javier\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+C:\Users\javier\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+C:\Users\javier\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+C:\Users\javier\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\javier\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+C:\Users\javier\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+C:\Users\javier\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+C:\Users\javier\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+C:\Users\javier\Desktop\one drive\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+F:\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+F:\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+D:\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.ResolveComReference.cache
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.ResolveComReference.cache
+F:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.ResolveComReference.cache
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+H:\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+H:\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+H:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+D:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+E:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.ResolveComReference.cache
+E:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+E:\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\Software\Downloads\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.ResolveComReference.cache
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.ResolveComReference.cache
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+C:\Users\Software\Desktop\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.ResolveComReference.cache
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+C:\Users\HP TouchSmart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.ResolveComReference.cache
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+K:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.ResolveComReference.cache
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+H:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.ResolveComReference.cache
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura.resources
+G:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+E:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+C:\Users\HP-Touch-Smart\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+C:\Users\javim\Desktop\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+D:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+F:\PROYECTROQUE\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+C:\Users\HP-Touch-Smart\Desktop\sdsdsd\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+C:\Users\HP-Touch-Smart\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+F:\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+F:\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+F:\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Software\Desktop\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Informe_factura_venta.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Informe_factura_venta.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+F:\KINSTONG\PROYECTROQUE\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Informe_factura_venta.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+C:\Users\HP-Touch-Smart\Desktop\cristal prueba\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Informe_factura_venta.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe.config
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.exe
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.pdb
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.exe
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\bin\Debug\ProyectRoque.pdb
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csprojResolveAssemblyReference.cache
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_producto.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Cambio_de_clave.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_facturas_venta.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_factura_compra.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Negocios.consulta_producto.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_cliente.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.actualizacion_empleado.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Actualizar_proveedor.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Clientes.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_clientes.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_empleados.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.consulta_proveedores.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_cliente.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_empleado.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_compra.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_factura_venta.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_producto.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.creacion_proveedor.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_cliente.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_empleados.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_producto.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Eliminacion_proveedores.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Empleados.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_Compra.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Factura_venta.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Informe_factura_venta.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Login.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_administrador.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_cajero.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.menu_jefe_inventario.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.producto.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Proveedores.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Presentacion.Recuperacion_clave.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.Properties.Resources.resources
+H:\KINSTONG\PROYECTROQUE\PROYECTROQUE\Proyecto\ProyectRoque\ProyectRoque\ProyectRoque\obj\x86\Debug\ProyectRoque.csproj.GenerateResource.Cache
